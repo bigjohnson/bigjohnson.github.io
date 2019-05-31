@@ -1,1 +1,1 @@
-Bote Tech Inc. board's Arduinos platform files.
+Bote Tech Inc. boards Arduino's platform files.
