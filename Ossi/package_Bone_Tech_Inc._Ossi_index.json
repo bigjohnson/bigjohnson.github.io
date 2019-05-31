@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+      "name": "Ossi",
+      "maintainer": "Bone Tech Inc.",
+      "websiteURL": "https://github.com/bigjohnson/Ossi",
+      "email": "alberto@panu.it",
+      "help": {
+        "online": "https://github.com/bigjohnson/Ossi"
+      },
+      "platforms": [
+        {
+          "name": "Ossi",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://bigjohnson.github.io/Ossi/Ossi-0.0.1.zip",
+          "archiveFileName": "Ossi-0.0.1.zip",
+          "checksum": "SHA-256:D10EF789F73C580C231CFDA88FFEA2E744B4B6546AB5D3D99A27462E3D25AC61",
+          "size": "24106",
+          "boards": [
+            {"name": "Osso internal clock"},
+            {"name": "Osso external clock"},
+            {"name": "Osso internal clock no bootloader"},
+            {"name": "Osso externall clock no bootloader"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
