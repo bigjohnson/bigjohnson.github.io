@@ -1,2 +1,2 @@
 # GitHubAssets
-Some projects files that slow clone
+Some files shared from GitHub...
