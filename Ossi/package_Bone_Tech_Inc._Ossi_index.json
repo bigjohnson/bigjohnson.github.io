@@ -12,11 +12,11 @@
         {
           "name": "Ossi",
           "architecture": "avr",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
           "url": "https://bigjohnson.github.io/Ossi/Ossi-0.0.2.zip",
           "archiveFileName": "Ossi-0.0.2.zip",
-          "checksum": "SHA-256:CCD77F8BD3B0F7D2809DA74C90F4C741E002DD493D4BD2E6C2A36FD6EB550534",
+          "checksum": "SHA-256:61187385AC58AB2EBEDCDACF83C607E4BFB1A76EE5341A17959005017980CE7C",
           "size": "25689",
           "boards": [
             {"name": "Osso internal clock"},
