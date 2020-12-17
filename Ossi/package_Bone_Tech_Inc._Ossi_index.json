@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://bigjohnson.github.io/Ossi/Ossi-0.0.2.zip",
           "archiveFileName": "Ossi-0.0.2.zip",
-          "checksum": "SHA-256:61187385AC58AB2EBEDCDACF83C607E4BFB1A76EE5341A17959005017980CE7C",
+          "checksum": "SHA-256:C4791479AD07662B1B542735B0652635B3C6DF14003470963054270D2F81F0EC",
           "size": "25689",
           "boards": [
             {"name": "Osso internal clock"},
